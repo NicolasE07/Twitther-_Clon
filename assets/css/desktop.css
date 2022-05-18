@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+}
+
+.main--section-header{
+    width: 100%;
+    height: 100vh;
+}
+
+.section-header--container{
+    width:90%;
+    max-width: 500px;
+    padding: 0;
+    
+}
+
+.section-header--title h1{
+    font-size: 6.1rem;
+    line-height: 6.1rem;
+
+}
+
+.main--section-login{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+.section-header--input .input-search input {
+    width: 90%;
+}
